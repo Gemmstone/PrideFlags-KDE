@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=PrideFlags
+Comment=Show your pride in your taskbar!
+Icon=icon.svg
+X-KDE-PluginInfo-Author=Gemmstone
+X-KDE-PluginInfo-Email=emmaleduartec@gmail.com
+X-KDE-PluginInfo-Name=PrideFlags
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/Gemmstone
+X-KDE-PluginInfo-Category=buttons
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=MIT
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-RootOnly=false
+X-KDE-PluginInfo-AppInstallPath=/usr/share/plasma/plasmoids/
+X-KDE-PluginInfo-Abstract=
+X-KDE-PluginInfo-IconName=myplasmoid

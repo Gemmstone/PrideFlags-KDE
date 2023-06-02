@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+X-KDE-ServiceTypes=Plasma/Applet
+Name=org.kde.myplasmoid
+Icon=icon.svg
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=code/main.qml
