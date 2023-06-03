@@ -31,4 +31,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 
 ## Credits
 
-- SVG icons used in this Plasmoid are sourced from the [queer-flags-as-svg](https://github.com/stephfuchs/queer-flags-as-svg) repository by [Steph Fuchs](https://github.com/stephfuchs). Each icon is subject to its respective license. Please refer to the original repository for more information.
+- SVG icons used in this Plasmoid are sourced from the [queer-flags-as-svg](https://github.com/stephfuchs/queer-flags-as-svg) repository by [stephfuchs](https://github.com/stephfuchs). Each icon is subject to its respective license. Please refer to the original repository for more information.
